@@ -1,0 +1,7 @@
+{
+  "class": "Button",
+  "identifier": "apply",
+  "title": {
+    "text": "Apply"
+  }
+}

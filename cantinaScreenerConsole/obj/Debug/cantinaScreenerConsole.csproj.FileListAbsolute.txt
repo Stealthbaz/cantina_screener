@@ -1,0 +1,10 @@
+D:\dev\cantinaScreener\cantinaScreenerConsole\cantinaScreenerConsole\bin\Debug\cantinaScreenerConsole.exe.config
+D:\dev\cantinaScreener\cantinaScreenerConsole\cantinaScreenerConsole\bin\Debug\cantinaScreenerConsole.exe
+D:\dev\cantinaScreener\cantinaScreenerConsole\cantinaScreenerConsole\bin\Debug\cantinaScreenerConsole.pdb
+D:\dev\cantinaScreener\cantinaScreenerConsole\cantinaScreenerConsole\obj\Debug\cantinaScreenerConsole.csprojAssemblyReference.cache
+D:\dev\cantinaScreener\cantinaScreenerConsole\cantinaScreenerConsole\obj\Debug\cantinaScreenerConsole.csproj.CoreCompileInputs.cache
+D:\dev\cantinaScreener\cantinaScreenerConsole\cantinaScreenerConsole\obj\Debug\cantinaScreenerConsole.exe
+D:\dev\cantinaScreener\cantinaScreenerConsole\cantinaScreenerConsole\obj\Debug\cantinaScreenerConsole.pdb
+D:\dev\cantinaScreener\cantinaScreenerConsole\cantinaScreenerConsole\bin\Debug\Newtonsoft.Json.dll
+D:\dev\cantinaScreener\cantinaScreenerConsole\cantinaScreenerConsole\bin\Debug\Newtonsoft.Json.xml
+D:\dev\cantinaScreener\cantinaScreenerConsole\cantinaScreenerConsole\obj\Debug\cantinaScreenerConsole.csproj.CopyComplete

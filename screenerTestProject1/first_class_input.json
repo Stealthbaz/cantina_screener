@@ -1,0 +1,12 @@
+{
+  "class": "Input",
+  "label": {
+    "text": {
+      "text": "Video mode"
+    }
+  },
+  "control": {
+    "class": "VideoModeSelect",
+    "identifier": "videoMode"
+  }
+}
